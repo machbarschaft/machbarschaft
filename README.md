@@ -19,6 +19,9 @@ The aim of this project is providing help for people which have to stay at home 
 Just feel free to test our nice bot Lisa which answers your request: <a href="tel:+4940299960980">+49 40 2999 60980</a>
 Your request will be processed and stored in our database.
 
+### Video demonstration
+[<img src="https://img.youtube.com/vi/8YJ0I0dMmWg/maxresdefault.jpg" width="50%">](https://youtu.be/8YJ0I0dMmWg)
+
 ### Repositories
 The project is structured in several parts. The repository for every single part of the application is listed in the following table. Here you can get more information in detail how this part of the application works and access the source code.
 
@@ -45,6 +48,7 @@ The project is structured in several parts. The repository for every single part
 #### Further ressources
 - <a href="https://www.figma.com/file/qMwnqgj0VtgbHztbnhM8lq/%23einanrufhilft">Figma resources</a>
 - <a href="https://machbarschaft.jetzt/">Machbarschaft Homepage</a>
+- <a href="https://www.youtube.com/channel/UC9Y9x0V-YSD0s535UG_5FoA">YouTube channel</a>
 - GitHub Repositories in the upper table
 
 #### Contributors
