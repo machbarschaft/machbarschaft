@@ -28,12 +28,12 @@ The project is structured in several parts. The repository for every single part
 
 | Repository  | GitHub-Link | Contributors | 
 | ------------- | ------------- | ----------- |
-| iOS App | https://github.com/marc-sommer/machbarschaft-ios |<a href="https://github.com/felixschlegel">felixschlegel</a><br/><a href="https://github.com/LinusGeffarth ">LinusGeffarth</a><br/><a href="https://github.com/packatino">packatino</a><br/><a href="https://github.com/DEOA ">DEOA</a><br/><a href="https://github.com/marc-sommer">marc-sommer</a>|
-| Android-App  | https://github.com/Basler182/machbarschaft-android |<a href="https://github.com/moonlight200">moonlight200</a><br/><a href="https://github.com/Basler182">Basler182</a><br/><a href="https://github.com/bene99">bene99</a><br/><a href="https://github.com/JulianWieners">JulianWieners</a><br/><a href="https://github.com/alexanderhodes">alexanderhodes</a>|
-| Google Cloud Function | https://github.com/dvs23/machbarschaft-firebase-api |<a href="https://github.com/dvs23">dvs23</a><br/><a href="https://github.com/joterr">joterr</a><br/><a href="https://github.com/alexanderhodes">alexanderhodes</a>|
-| Twilio configuration | https://github.com/alexanderhodes/machbarschaft-twilio |<a href="https://github.com/dvs23">dvs23</a><br/><a href="https://github.com/joterr">joterr</a><br/><a href="https://github.com/alexanderhodes">alexanderhodes</a>|
-| Website | https://github.com/marc-sommer/machbarschaft-web |<a href="https://github.com/code-lukas">code-lukas</a><br/><a href="https://github.com/marc-sommer">marc-sommer</a>|
-| Design | https://github.com/marc-sommer/machbarschaft-design | <a href="https://github.com/marc-sommer">marc-sommer</a><br/><a href="https://github.com/Keja0809">Keja0809</a><br/>|
+| iOS App | https://github.com/machbarschaft/machbarschaft-ios |<a href="https://github.com/felixschlegel">felixschlegel</a><br/><a href="https://github.com/LinusGeffarth ">LinusGeffarth</a><br/><a href="https://github.com/packatino">packatino</a><br/><a href="https://github.com/DEOA ">DEOA</a><br/><a href="https://github.com/marc-sommer">marc-sommer</a>|
+| Android-App  | https://github.com/machbarschaft/machbarschaft-android |<a href="https://github.com/moonlight200">moonlight200</a><br/><a href="https://github.com/Basler182">Basler182</a><br/><a href="https://github.com/bene99">bene99</a><br/><a href="https://github.com/JulianWieners">JulianWieners</a><br/><a href="https://github.com/alexanderhodes">alexanderhodes</a>|
+| Google Cloud Function | https://github.com/machbarschaft/machbarschaft-firebase-api |<a href="https://github.com/dvs23">dvs23</a><br/><a href="https://github.com/joterr">joterr</a><br/><a href="https://github.com/alexanderhodes">alexanderhodes</a>|
+| Twilio configuration | https://github.com/machbarschaft/machbarschaft-twilio |<a href="https://github.com/dvs23">dvs23</a><br/><a href="https://github.com/joterr">joterr</a><br/><a href="https://github.com/alexanderhodes">alexanderhodes</a>|
+| Website | https://github.com/machbarschaft/machbarschaft-web |<a href="https://github.com/code-lukas">code-lukas</a><br/><a href="https://github.com/marc-sommer">marc-sommer</a>|
+| Design | https://github.com/machbarschaft/machbarschaft-design | <a href="https://github.com/marc-sommer">marc-sommer</a><br/><a href="https://github.com/Keja0809">Keja0809</a><br/>|
 
 #### Architecture
 
@@ -46,11 +46,12 @@ The project is structured in several parts. The repository for every single part
 - Website: HTML, CSS, JavaScript
 - Further things: JSON for data exchange, Firebase Functions, Firebase Authentication, Firebase Storage, Firebase Database, Twilio, Google Maps API
 
-#### Further ressources
+#### Further resources
 - <a href="https://www.figma.com/file/qMwnqgj0VtgbHztbnhM8lq/%23einanrufhilft">Figma resources</a>
 - <a href="https://machbarschaft.jetzt/">Machbarschaft Homepage</a>
 - <a href="https://www.youtube.com/channel/UC9Y9x0V-YSD0s535UG_5FoA">YouTube channel</a>
 - GitHub Repositories in the upper table
+- further resources upon request by <a href="mailto:hallo@machbarschaft.jetzt">hallo@machbarschaft.jetzt</a>
 
 #### Contributors
 <table>
@@ -145,3 +146,8 @@ The project is structured in several parts. The repository for every single part
     </td>
   </tr>
 </table>
+
+#### get in touch
+Do not hesitate to get in touch with us. Drop us some nice words by <a href="mailto:hallo@machbarschaft.jetzt?subject=hi">mail</a>. 
+
+made with ❤ by us (machbarschaft).
