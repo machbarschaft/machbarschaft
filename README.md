@@ -1,4 +1,7 @@
-<img src="https://github.com/marc-sommer/machbarschaft/blob/master/machbarschaft-logo.jpeg" height="160px" width="auto">
+<div>
+  <img src="https://github.com/marc-sommer/machbarschaft/blob/master/machbarschaft-logo.jpeg" height="160px" width="auto">
+  <img src="https://wirvsvirushackathon.org/wp-content/uploads/2020/03/12-scaled.jpg" height="60px" width="auto">
+</div>
 
 ## What is it?
 Machbarschaft is a project that has been created while <a href="https://wirvsvirushackathon.org/">WirVsVirus hackathon</a> which took part from 20.03.2020 to 22.03.2020. 
