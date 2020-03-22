@@ -22,13 +22,15 @@ Your request will be processed and stored in our database.
 ### Video demonstration
 [<img src="https://img.youtube.com/vi/8YJ0I0dMmWg/maxresdefault.jpg" width="50%">](https://youtu.be/8YJ0I0dMmWg)
 
+[![machbarschaft Video](https://img.youtube.com/vi/8YJ0I0dMmWg/0.jpg)](https://www.youtube.com/watch?v=8YJ0I0dMmWg)
+
 ### Repositories
 The project is structured in several parts. The repository for every single part of the application is listed in the following table. Here you can get more information in detail how this part of the application works and access the source code.
 
 | Repository  | GitHub-Link | Contributors | 
 | ------------- | ------------- | ----------- |
 | iOS App | https://github.com/marc-sommer/machbarschaft-ios |<a href="https://github.com/felixschlegel">felixschlegel</a><br/><a href="https://github.com/LinusGeffarth ">LinusGeffarth</a><br/><a href="https://github.com/packatino">packatino</a><br/><a href="https://github.com/DEOA ">DEOA</a><br/><a href="https://github.com/marc-sommer">marc-sommer</a>|
-| Android-App  | https://github.com/Basler182/einanrufhilft_application |<a href="https://github.com/moonlight200">moonlight200</a><br/><a href="https://github.com/Basler182">Basler182</a><br/><a href="https://github.com/bene99">bene99</a><br/><a href="https://github.com/JulianWieners">JulianWieners</a><br/><a href="https://github.com/alexanderhodes">alexanderhodes</a>|
+| Android-App  | https://github.com/Basler182/machbarschaft-android |<a href="https://github.com/moonlight200">moonlight200</a><br/><a href="https://github.com/Basler182">Basler182</a><br/><a href="https://github.com/bene99">bene99</a><br/><a href="https://github.com/JulianWieners">JulianWieners</a><br/><a href="https://github.com/alexanderhodes">alexanderhodes</a>|
 | Google Cloud Function | https://github.com/dvs23/machbarschaft-firebase-api |<a href="https://github.com/dvs23">dvs23</a><br/><a href="https://github.com/joterr">joterr</a><br/><a href="https://github.com/alexanderhodes">alexanderhodes</a>|
 | Twilio configuration | https://github.com/alexanderhodes/machbarschaft-twilio |<a href="https://github.com/dvs23">dvs23</a><br/><a href="https://github.com/joterr">joterr</a><br/><a href="https://github.com/alexanderhodes">alexanderhodes</a>|
 | Website | https://github.com/marc-sommer/machbarschaft-web |<a href="https://github.com/code-lukas">code-lukas</a><br/><a href="https://github.com/marc-sommer">marc-sommer</a>|
