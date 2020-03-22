@@ -12,6 +12,10 @@ The aim of this project is providing help for people which have to stay at home 
 5. A helper clicks onto an order in the list and calls the person who needs help for getting more information, e.g. for a purchase which products are needed
 6. The helper fulfils this actions and got paid by the caller
 
+### How to test it?
+Just feel free to test our nice bot Lisa which answers your request: <a href="tel:+4940299960980">+4940 2999 60980</a>
+Your request will be processed and stored in our database.
+
 ### Repositories
 The project is structured in several parts. The repository for every single part of the application is listed in the following table. Here you can get more information in detail how this part of the application works and access the source code.
 
@@ -22,6 +26,7 @@ The project is structured in several parts. The repository for every single part
 | Google Cloud Function | https://github.com/dvs23/machbarschaft |<a href="https://github.com/dvs23">dvs23</a><br/><a href="https://github.com/joterr">joterr</a><br/><a href="https://github.com/alexanderhodes">alexanderhodes</a>|
 | Twilio configuration | https://github.com/alexanderhodes/machbarschaft-twilio |<a href="https://github.com/dvs23">dvs23</a><br/><a href="https://github.com/joterr">joterr</a><br/><a href="https://github.com/alexanderhodes">alexanderhodes</a>|
 | Website | https://github.com/marc-sommer/machbarschaft-web |<a href="https://github.com/code-lukas">code-lukas</a><br/><a href="https://github.com/marc-sommer">marc-sommer</a>|
+| Design | https://github.com/marc-sommer/machbarschaft-design | <a href="https://github.com/marc-sommer">marc-sommer</a><br/><a href="https://github.com/Keja0809">Keja0809</a><br/>|
 
 #### Architecture
 
@@ -122,6 +127,12 @@ The project is structured in several parts. The repository for every single part
       <a href="https://github.com/DEOA/">
         <img src="https://avatars0.githubusercontent.com/u/21275941?s=460&v=4" width="100px;" alt=""><br/>
         <sub><b>DEOA</b></sub>
+      <a/>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Keja0809">
+        <img src="https://avatars1.githubusercontent.com/u/22995330?s=460&v=4" width="100px;" alt=""><br/>
+        <sub><b>Keja0809</b></sub>
       <a/>
     </td>
   </tr>
