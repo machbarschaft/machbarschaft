@@ -13,7 +13,7 @@ The aim of this project is providing help for people which have to stay at home 
 6. The helper fulfils this actions and got paid by the caller
 
 ### How to test it?
-Just feel free to test our nice bot Lisa which answers your request: <a href="tel:+4940299960980">+4940 2999 60980</a>
+Just feel free to test our nice bot Lisa which answers your request: <a href="tel:+4940299960980">+49 40 2999 60980</a>
 Your request will be processed and stored in our database.
 
 ### Repositories
