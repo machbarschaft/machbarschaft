@@ -23,12 +23,15 @@ The project is structured in several parts. The repository for every single part
 | Twilio configuration | https://github.com/alexanderhodes/machbarschaft-twilio |<a href="https://github.com/dvs23">dvs23</a><br/><a href="https://github.com/joterr">joterr</a><br/><a href="https://github.com/alexanderhodes">alexanderhodes</a>|
 | Website | https://github.com/marc-sommer/machbarschaft-web |<a href="https://github.com/code-lukas">code-lukas</a><br/><a href="https://github.com/marc-sommer">marc-sommer</a>|
 
-Figma
-https://www.figma.com/file/qMwnqgj0VtgbHztbnhM8lq/%23einanrufhilft
-
+<img src="https://github.com/marc-sommer/machbarschaft/blob/master/architecture.png" alt="Architecture" height="500px" width="auto">
 #### Techstack
 
 #### Architecture
+
+#### Further ressources
+- <a href="https://www.figma.com/file/qMwnqgj0VtgbHztbnhM8lq/%23einanrufhilft">Figma resources</>
+- <a href="https://machbarschaft.jetzt/">Machbarschaft Homepage</>
+- GitHub Repositories in the upper table
 
 #### Contributors
 <table>
