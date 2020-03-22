@@ -20,7 +20,6 @@ Just feel free to test our nice bot Lisa which answers your request: <a href="te
 Your request will be processed and stored in our database.
 
 ### Video demonstration
-[<img src="https://img.youtube.com/vi/8YJ0I0dMmWg/maxresdefault.jpg" width="50%">](https://youtu.be/8YJ0I0dMmWg)
 
 [![machbarschaft Video](https://img.youtube.com/vi/8YJ0I0dMmWg/0.jpg)](https://www.youtube.com/watch?v=8YJ0I0dMmWg)
 
