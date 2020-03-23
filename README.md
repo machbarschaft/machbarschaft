@@ -30,7 +30,7 @@ The project is structured in several parts. The repository for every single part
 | ------------- | ------------- | ----------- |
 | iOS App | https://github.com/machbarschaft/machbarschaft-ios |<a href="https://github.com/felixschlegel">felixschlegel</a><br/><a href="https://github.com/LinusGeffarth ">LinusGeffarth</a><br/><a href="https://github.com/packatino">packatino</a><br/><a href="https://github.com/DEOA ">DEOA</a><br/><a href="https://github.com/marc-sommer">marc-sommer</a>|
 | Android-App  | https://github.com/machbarschaft/machbarschaft-android |<a href="https://github.com/moonlight200">moonlight200</a><br/><a href="https://github.com/Basler182">Basler182</a><br/><a href="https://github.com/bene99">bene99</a><br/><a href="https://github.com/JulianWieners">JulianWieners</a><br/><a href="https://github.com/alexanderhodes">alexanderhodes</a>|
-| Google Cloud Function | https://github.com/machbarschaft/machbarschaft-firebase-api |<a href="https://github.com/dvs23">dvs23</a><br/><a href="https://github.com/joterr">joterr</a><br/><a href="https://github.com/alexanderhodes">alexanderhodes</a>|
+| Google Cloud Function | https://github.com/machbarschaft/machbarschaft-firebase |<a href="https://github.com/dvs23">dvs23</a><br/><a href="https://github.com/joterr">joterr</a><br/><a href="https://github.com/alexanderhodes">alexanderhodes</a>|
 | Twilio configuration | https://github.com/machbarschaft/machbarschaft-twilio |<a href="https://github.com/dvs23">dvs23</a><br/><a href="https://github.com/joterr">joterr</a><br/><a href="https://github.com/alexanderhodes">alexanderhodes</a>|
 | Website | https://github.com/machbarschaft/machbarschaft-web |<a href="https://github.com/code-lukas">code-lukas</a><br/><a href="https://github.com/marc-sommer">marc-sommer</a>|
 | Design | https://github.com/machbarschaft/machbarschaft-design | <a href="https://github.com/marc-sommer">marc-sommer</a><br/><a href="https://github.com/Keja0809">Keja0809</a><br/>|
@@ -51,6 +51,7 @@ The project is structured in several parts. The repository for every single part
 - <a href="https://machbarschaft.jetzt/">Machbarschaft Homepage</a>
 - <a href="https://www.youtube.com/channel/UC9Y9x0V-YSD0s535UG_5FoA">YouTube channel</a>
 - GitHub Repositories in the upper table
+- Resources in this Github Repository (flyer, our working documents which are still going to be structured and improved, flow chart for the proces of our App etc.) 
 - further resources upon request by <a href="mailto:hallo@machbarschaft.jetzt">hallo@machbarschaft.jetzt</a>
 
 ### Behavioral recommendation
