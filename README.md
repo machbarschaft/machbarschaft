@@ -59,6 +59,8 @@ The project is structured in several parts. The repository for every single part
 
 ### Roadmap MACHBARSCHAFT
  
+<i>Note: This section hasn't been translated into English yet. Please check back later for a translation.</i>
+  
 MACHBARSCHAFT
 EIN ANRUF HILFT
  
