@@ -59,7 +59,7 @@ The project is structured in several parts. The repository for every single part
 
 ### Roadmap MACHBARSCHAFT
  
-<i>Note: This section is still work in progress. It hasn't been translated into English yet, and formulations are still being improved. Please check back later for a translation.</i>
+<i>Note: This section is still work in progress. It hasn't been translated into English yet, and formulations are still being improved. Please check back later again.</i>
   
 #### Phase 1: BUILD + LAUNCH
 
