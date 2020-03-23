@@ -53,6 +53,84 @@ The project is structured in several parts. The repository for every single part
 - GitHub Repositories in the upper table
 - further resources upon request by <a href="mailto:hallo@machbarschaft.jetzt">hallo@machbarschaft.jetzt</a>
 
+### Roadmap MACHBARSCHAFT
+ 
+MACHBARSCHAFT
+EIN ANRUF HILFT
+ 
+Hilfe ohne Medienbruch für ältere Menschen
+
+Wir entwickeln einen Telefonservice, den ältere Menschen einfach anrufen können, um ihre Bedürfnisse auszusprechen. Ein Bot nimmt die Anfrage entgegen und bildet daraus mit Hilfe von Künstlicher Intelligenz eine Anfrage, die wir in eine App einspielen. In der App finden sich freiwillige Nachbarn und Nachbarinnen, die Anfragen annehmen und Erledigungen übernehmen – vom kleinen Einkauf bis zur Abholung von Medikamenten oder anderen Erledigungen für das tägliche Leben.
+ 
+So machen wir Nachbar:innen zu Machbar:innen.
+ 
+#### Phase 1: BUILD + LAUNCH
+
+##### Use Cases:
+
+* Einkäufe und Erledigungen für den Alltag im Ausnahmezustand
+
+##### Tech/ Plattform:
+
+* Machbarschafts-Telefonnummer
+* Bot/ KI
+* Machbarschafts-App
+
+##### Kommunikation:
+
+* Zielgruppe ältere Menschen (Nachbar:innen): Postwurfsendung jeder Haushalt, Flyer im Supermarkt, Radio / Lokale Tages-/Zeitungen
+* Zielgruppe jüngere Menschen (Machbar:innen): Social Media Marketing, OOH und TV über Partnerschaften, Flyer im Supermarkt
+ 
+#### Phase 2: SCALE
+
+##### Use Cases:
+
+* Neue Services, z.B. Hunde ausführen oder Dinge leihen und tauschen
+
+##### Tech/ Plattform:
+
+* Ausbau der App und Ausweitung auf digitale Risikogruppen: Anfragen stellen und annehmen per App 
+* Entwicklung von Tech Back-end Lösung für Voice-/Telefon-Bestell-Service für Supermärkte (Abholung über Machbar:innen, Supermarkt-Lieferanten oder andere Lieferdienste)
+
+##### Partnerschaften:
+
+* mit anderen Nachbarschafts-Diensten
+* Rotary Club 
+* Münchner Freiwillige eV und andere Organisationen in div Städten
+
+##### Kommunikation:
+
+* Weiterführung der Kommunikation, ggf. Einbindung von geeigneten Influencern für die junge Zielgruppe
+
+#### Phase 3: EXPAND (Post-Corona)
+ 
+##### Use Cases und Features:
+
+* Handwerker-Services
+* Nachbarschafts-Event-Planung und Community Gardening/ Farming
+* Vermittlung von Pflegekräften und Haushalts-Services
+* Hilfe für chronisch Kranke
+* Arzttermine buchen
+* Friseur/ Kosmetik/ Reha buchen
+* Transportdienste
+
+##### Tech/Plattform:
+
+* VideoChat (wenn Internet bei Zielgruppe gegeben wäre)
+* Digitale Arzt Chat/ Arzt Visite (wenn Internet bei Zielgruppe gegeben wäre)
+* Push Notifications Location Based Service für Hilfe an Helfer (Mehr Push vs Pull Prinzip für schnellere Hilfen)
+* Seamless Payment wenn ältere Zielgruppe App und Wallet o.ä.
+ 
+##### Partnerschaften: 
+
+* Mobility Services 
+* Lebensmitteleinzelhandel
+* Krankenkassen
+* Apotheken/DocMorris
+* Banken/Bankgeschäft
+* Telefonische Behördendienste/Gänge
+* MyHammer o.ä für Hauswerksarbeiten/Handwerkerdienste.
+
 #### Contributors
 <table>
   <tr>
