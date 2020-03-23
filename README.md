@@ -59,17 +59,8 @@ The project is structured in several parts. The repository for every single part
 
 ### Roadmap MACHBARSCHAFT
  
-<i>Note: This section hasn't been translated into English yet. Please check back later for a translation.</i>
+<i>Note: This section is still work in progress. It hasn't been translated into English yet, and formulations are still being improved. Please check back later for a translation.</i>
   
-MACHBARSCHAFT
-EIN ANRUF HILFT
- 
-Hilfe ohne Medienbruch für ältere Menschen
-
-Wir entwickeln einen Telefonservice, den ältere Menschen einfach anrufen können, um ihre Bedürfnisse auszusprechen. Ein Bot nimmt die Anfrage entgegen und bildet daraus mit Hilfe von Künstlicher Intelligenz eine Anfrage, die wir in eine App einspielen. In der App finden sich freiwillige Nachbarn und Nachbarinnen, die Anfragen annehmen und Erledigungen übernehmen – vom kleinen Einkauf bis zur Abholung von Medikamenten oder anderen Erledigungen für das tägliche Leben.
- 
-So machen wir Nachbar:innen zu Machbar:innen.
- 
 #### Phase 1: BUILD + LAUNCH
 
 ##### Use Cases:
