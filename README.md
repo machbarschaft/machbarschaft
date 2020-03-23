@@ -53,6 +53,10 @@ The project is structured in several parts. The repository for every single part
 - GitHub Repositories in the upper table
 - further resources upon request by <a href="mailto:hallo@machbarschaft.jetzt">hallo@machbarschaft.jetzt</a>
 
+### Behavioral recommendation
+
+<a href="Verhaltensempfehlungen_für_MACHBAR_EINKAUF.pdf"><img src="Verhaltensregeln.PNG"></a>
+
 ### Roadmap MACHBARSCHAFT
  
 MACHBARSCHAFT
