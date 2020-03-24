@@ -59,75 +59,74 @@ The project is structured in several parts. The repository for every single part
 <a href="Verhaltensempfehlungen_für_MACHBAR_EINKAUF.pdf"><img src="Verhaltensregeln.PNG"></a>
 
 ### Roadmap MACHBARSCHAFT
- 
-<i>Note: This section is still work in progress. It hasn't been translated into English yet, and formulations are still being improved. Please check back later again.</i>
-  
+   
 #### Phase 1: BUILD + LAUNCH
 
 ##### Use Cases:
 
-* Einkäufe und Erledigungen für den Alltag im Ausnahmezustand
+* Shopping and errands for everyday life in a state of emergency
 
-##### Tech/ Plattform:
+##### Tech/platform:
 
-* Machbarschafts-Telefonnummer
-* Bot/ KI
-* Machbarschafts-App
+* Machbarschaft phone number
+* Bot/AI
+* Machbarschaft App
 
-##### Kommunikation:
+##### Communication/Marketing:
 
-* Zielgruppe ältere Menschen (Nachbar:innen): Postwurfsendung jeder Haushalt, Flyer im Supermarkt, Radio / Lokale Tages-/Zeitungen
-* Zielgruppe jüngere Menschen (Machbar:innen): Social Media Marketing, OOH und TV über Partnerschaften, Flyer im Supermarkt
+* Target group older people (Nachbar:innen): Direct mail from each household, flyers in the supermarket, radio / local daily newspapers
+* Target group younger people (Machbar:in) Social Media Marketing, OOH and TV via partnerships, flyers in the supermarket 
  
 #### Phase 2: SCALE
 
 ##### Use Cases:
 
-* Neue Services, z.B. Hunde ausführen oder Dinge leihen und tauschen
+* New services, e.g. walking dogs or borrowing and exchanging things
 
 ##### Tech/ Plattform:
 
-* Ausbau der App und Ausweitung auf digitale Risikogruppen: Anfragen stellen und annehmen per App 
-* Entwicklung von Tech Back-end Lösung für Voice-/Telefon-Bestell-Service für Supermärkte (Abholung über Machbar:innen, Supermarkt-Lieferanten oder andere Lieferdienste)
+* Expansion of the app and extension to digital risk groups: Make and accept requests via App
+* Development of Tech Back-end solution for voice/telephone ordering service for supermarkets (pickup via Machbar:in in-store, supermarket suppliers or other delivery services)
 
-##### Partnerschaften:
+##### Partnerships:
 
-* mit anderen Nachbarschafts-Diensten
+* With other neighborhood services
 * Rotary Club 
-* Münchner Freiwillige eV und andere Organisationen in div Städten
+* Münchner Freiwillige eV and other organizations in cities
 
-##### Kommunikation:
+##### Communication/Marketing:
 
-* Weiterführung der Kommunikation, ggf. Einbindung von geeigneten Influencern für die junge Zielgruppe
+* Continuation of the communication, if necessary integration of suitable influencers for the young target group
 
 #### Phase 3: EXPAND (Post-Corona)
  
-##### Use Cases und Features:
+##### Use Cases and features:
 
-* Handwerker-Services
-* Nachbarschafts-Event-Planung und Community Gardening/ Farming
-* Vermittlung von Pflegekräften und Haushalts-Services
-* Hilfe für chronisch Kranke
-* Arzttermine buchen
-* Friseur/ Kosmetik/ Reha buchen
-* Transportdienste
+* Craftsman Services
+* Neighbourhood event planning and community gardening/farming
+* Placement of nursing staff and household services
+* Help for the chronically ill
+* Book medical appointments
+* Book hairdresser/ cosmetics/ rehab
+* Transport services
 
 ##### Tech/Plattform:
 
-* VideoChat (wenn Internet bei Zielgruppe gegeben wäre)
-* Digitale Arzt Chat/ Arzt Visite (wenn Internet bei Zielgruppe gegeben wäre)
-* Push Notifications Location Based Service für Hilfe an Helfer (Mehr Push vs Pull Prinzip für schnellere Hilfen)
-* Seamless Payment wenn ältere Zielgruppe App und Wallet o.ä.
+* VideoChat (if Internet would be available for the target group)
+* Digital doctor (video) chat/ doctor visit (if internet would be available for the target group)
+* Push Notifications Location Based Service for help to helpers (more push vs. pull principle for faster help)
+* Seamless payment (if older target group uses App and Wallet or similar)
  
 ##### Partnerschaften: 
 
-* Mobility Services 
-* Lebensmitteleinzelhandel
-* Krankenkassen
-* Apotheken/DocMorris
-* Banken/Bankgeschäft
-* Telefonische Behördendienste/Gänge
-* MyHammer o.ä für Hauswerksarbeiten/Handwerkerdienste.
+* mobility services
+* Food Retail Trade
+* Health insurance companies
+* Pharmacies/DocMorris
+* Banks/banking business
+* Public telephone services/corridors
+* MyHammer or similar for housework/craftsman services.
+
 
 #### Contributors
 <table>
