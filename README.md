@@ -109,6 +109,7 @@ The project is structured in several parts. The repository for every single part
 * Book medical appointments
 * Book hairdresser/ cosmetics/ rehab
 * Transport services
+* gamification approach for the App (get credits when you help)
 
 ##### Tech/Plattform:
 
