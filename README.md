@@ -33,7 +33,7 @@ The project is structured in several parts. The repository for every single part
 | Google Cloud Function | https://github.com/machbarschaft/machbarschaft-firebase |<a href="https://github.com/dvs23">dvs23</a><br/><a href="https://github.com/joterr">joterr</a><br/><a href="https://github.com/alexanderhodes">alexanderhodes</a>|
 | Twilio configuration | https://github.com/machbarschaft/machbarschaft-twilio |<a href="https://github.com/dvs23">dvs23</a><br/><a href="https://github.com/joterr">joterr</a><br/><a href="https://github.com/alexanderhodes">alexanderhodes</a>|
 | Website | https://github.com/machbarschaft/machbarschaft-web |<a href="https://github.com/code-lukas">code-lukas</a><br/><a href="https://github.com/marc-sommer">marc-sommer</a>|
-| Design | https://github.com/machbarschaft/machbarschaft-design | <a href="https://github.com/marc-sommer">marc-sommer</a><br/><a href="https://github.com/Keja0809">Keja0809</a><br/>|
+| Organisation/Conception/Design | https://github.com/machbarschaft/machbarschaft-organization | <a href="https://github.com/marc-sommer">marc-sommer</a><br/><a href="https://github.com/Keja0809">Keja0809</a><br/>|
 
 #### Architecture
 
