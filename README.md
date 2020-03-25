@@ -1,6 +1,6 @@
 <div>
-  <img src="https://github.com/marc-sommer/machbarschaft/blob/master/machbarschaft-logo.jpeg" height="160px" width="auto">
-  <img src="https://wirvsvirushackathon.org/wp-content/uploads/2020/03/12-scaled.jpg" height="60px" width="auto">
+  <span><img src="https://github.com/marc-sommer/machbarschaft/blob/master/machbarschaft-logo.jpeg" height="160px" width="auto">
+  <img src="https://wirvsvirushackathon.org/wp-content/uploads/2020/03/12-scaled.jpg" height="60px" width="auto"></span>
 </div>
 
 ## What is it?
