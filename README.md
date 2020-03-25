@@ -56,7 +56,7 @@ The project is structured in several parts. The repository for every single part
 
 ### Behavioral recommendation
 
-<a href="Verhaltensempfehlungen_für_MACHBAR_EINKAUF.pdf"><img src="Verhaltensregeln.PNG"></a>
+<a href="https://github.com/machbarschaft/machbarschaft-organization/blob/master/codeOfConductUser/Verhaltensempfehlungen%20f%C3%BCr%20MACHBAR%20EINKAUF.pdf"><img src="Verhaltensregeln.PNG"></a>
 
 ### Roadmap MACHBARSCHAFT
    
