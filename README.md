@@ -7,6 +7,12 @@
 Machbarschaft is a project that has been created while <a href="https://wirvsvirushackathon.org/">WirVsVirus hackathon</a> which took part from 20.03.2020 to 22.03.2020. 
 The aim of this project is providing help for people which have to stay at home in quarantine and have no access to the internet. For those people we have created Machbarschaft. It is a phone number that people can call. Here they can provide information what they need, how urgent this work is and personal information. Those data is collected and provided in an app where other users see those orders. They can get in touch with those people and fulfil this order so that the caller has not to leave his house or apartment.
 
+## What makes MACHBARSCHAFT so unique?
+* our focus is on vulnerable, for help looking older people who do not have internet access who cannot place their needs until now
+* we provide a free and safe service for helpers and for help looking people
+* we are the only service who verifies the users to prevent abusing data and to ensure security
+* our project is very easy to scale; we do not need a mediator to collect the orders – we use a bot. So an increase of calls does not confront us with the problem of having too less mediators to take the orders.
+
 ## How does it work?
 1. A person who needs help calls a german phone number (which is located in Hamburg) that is configured and hosted with Twilio
 2. The data is collected with Twilio and is sent to a Google Cloud function webservice
