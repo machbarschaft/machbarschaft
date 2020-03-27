@@ -10,8 +10,10 @@ The aim of this project is providing help for people which have to stay at home 
 ## What makes MACHBARSCHAFT so unique?
 * our focus is on vulnerable, for help looking older people who do not have internet access who cannot place their needs until now
 * we provide a free and safe service for helpers and for help looking people
-* we are the only service who verifies the users to prevent abusing data and to ensure security
+* we are operating on a 100% non-profit basis – sensitive data is safe with us.
+* we are the only service who verifies the users identity completetly and quick to prevent abusing data and to ensure security
 * our project is very easy to scale; we do not need a mediator to collect the orders – we use a bot. So an increase of calls does not confront us with the problem of having too less mediators to take the orders.
+* we are a technology-driven team and are using machine learning & artificial intelligence approaches to perfect the way our service works.
 
 ## How does it work?
 1. A person who needs help calls a german phone number (which is located in Hamburg) that is configured and hosted with Twilio
